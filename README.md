@@ -40,6 +40,6 @@ Explorar o desenvolvimento de páginas web com uso de boas práticas de estrutur
 
 ## 🧑‍💻 Autor
 
-- Nome: *Vitor Oliveira  *
+- Nome: *Vitor Oliveira e Kendy Nakamurasan  *
 - Curso: *Engenharia de software*
 - Faculdade: *Unicesumar*
