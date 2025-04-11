@@ -38,6 +38,9 @@ trabalho facul front-end/
 
 Explorar o desenvolvimento de páginas web com uso de boas práticas de estruturação HTML, inserção de imagens, scripts e manifestos para tornar a aplicação mais completa.
 
+## 📚 Objetivo do Site
+
+Trazer informações sobre jogo que está sendo uma febre no momento, como o jogo funciona com amigos e atualizar os usuarios sobre as novas informações que vamos disponibilizar a cada atualização do game.
 ## 🧑‍💻 Autor
 
 - Nome: *Vitor Oliveira, Kendy Valente e Melckson Januario  *
